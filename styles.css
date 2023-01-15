@@ -41,6 +41,12 @@ form button:hover {
   background: #A683E3;
   color: white;
 }
+h1 {
+  background: #A683E3;
+  color: white;
+  border: none;
+  padding: 1rem;
+}
 .todo-container {
   display: flex;
   justify-content: center;
